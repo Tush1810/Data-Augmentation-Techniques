@@ -1,4 +1,4 @@
-# Disclaimer
+# Contributors
 This is a group project implemented along with JayantSharma777 and sarthakdewan1601.
 
 # Data-Augmentation-Techniques
