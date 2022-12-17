@@ -11,11 +11,11 @@ Machine learning in today's era is influencing various different features on var
 
 # Accuracy Score based on Back Translation MarianMT model:
 ## Original vs Augmented
-## Using Target Language as Spannish:->
+### Using Target Language as Spannish
 
 ![image](https://user-images.githubusercontent.com/75779183/208244492-bb80d6ca-e4c9-410b-ba11-06de671946b4.png)
 
-## Using Target Language as Latin
+### Using Target Language as Latin
 
 ![image](https://user-images.githubusercontent.com/75779183/208244551-276551b0-db61-4dde-a9f8-1da0a29d9c9b.png)
 
