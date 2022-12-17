@@ -7,7 +7,7 @@ Machine learning in today's era is influencing various different features on var
 
 2) Tf-idf score and word embeddings: Studied about tf-idf,bert and various pretrained word embeddinds like Word2Vec, GloVe, FastText, Sent2Vec. After studying we implemented it by initially calculating the tf idf score and replacing the words with low tf idf score with the most similar word in the embedding space and hence increased the dataset. 
 
-3) Text Augmentation using Back Traslation via MarianMT Transformer- We used a HuggingFace model to implement back translation in 3 differenent Romance Languages that are French, Espanol and Latin.We had 3 different models and compared the accuracy of the augmented data with the original on the basis of Text Classification using Gausian Naïve Bayes.
+3) Text Augmentation using Back Traslation via MarianMT Transformer- We used a HuggingFace model to implement back translation in 3 differenent Romance Languages that are French, Espanol and Latin. We had 3 different models and compared the accuracy of the augmented data with the original on the basis of Text Classification using Gausian Naïve Bayes.
 
 # Accuracy Score based on Back Translation MarianMT model:
 ## Original vs Augmented
