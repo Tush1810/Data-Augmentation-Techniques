@@ -2,7 +2,7 @@
 This is a group project implemented along with JayantSharma777 and sarthakdewan1601.
 
 # Methodology
-<img src="https://raw.githubusercontent.com/Tush1810/Data-Augmentation-Techniques/main/Data Augmentation Techniques Methodology.png" alt="Splash Screen" width="500" height="300" /> 
+<img src="https://raw.githubusercontent.com/Tush1810/Data-Augmentation-Techniques/blob/main/Data%20Augmentation%20Techniques%20Methodology.jpg" alt="Splash Screen" width="500" height="300" /> 
 
 
 
