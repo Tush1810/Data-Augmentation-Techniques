@@ -1,6 +1,11 @@
 # Contributors
 This is a group project implemented along with JayantSharma777 and sarthakdewan1601.
 
+# Methodology
+<img src="https://raw.githubusercontent.com/Tush1810/BloodBank/master/Data Augmentation Techniques Methodology.png" alt="Splash Screen" width="500" height="300" /> 
+
+
+
 # Data-Augmentation-Techniques
 Machine learning in today's era is influencing various different features on various different products. Still, there are many low-resource task scenarios where performance of ML based models are not good enough. Aim of this project is to analyze and compare different data augmentation techniques for a benchmark dataset and build a model that can best perform on this dataset for text classification tasks.
 <br>
